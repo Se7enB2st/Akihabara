@@ -1,0 +1,2 @@
+module AkihabaraHelper
+end
