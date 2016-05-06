@@ -19,7 +19,6 @@ ActiveRecord::Schema.define(version: 20160505225431) do
   create_table "stores", force: true do |t|
     t.string   "name"
     t.text     "description"
-    t.string   "address"
     t.datetime "created_at"
     t.datetime "updated_at"
   end
