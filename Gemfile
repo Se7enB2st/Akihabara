@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+#Simple_form gem
+gem 'simple_form'
+
 #Rails 12 factor gem
 gem 'rails_12factor', group: :production
 

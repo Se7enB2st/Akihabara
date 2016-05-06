@@ -3,6 +3,10 @@ class AkihabaraController < ApplicationController
     @stores = Store.all
   end
 
+  def new
+    @store = Store.new
+  end
+
   def about
   end
 end
