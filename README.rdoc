@@ -1,5 +1,0 @@
-== README
-
-A simple page I made with Ruby on Rails for Akihabara, an town in Japan. Will add more contents in the future.
-
-I also use this application to tryout new technologies.
